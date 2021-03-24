@@ -20,4 +20,4 @@ sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.
 sed -i '$a src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git' feeds.conf.default
 
 # xiaoqingfengATGH/HomeLede
-sed -i '$a src-git xiaoqingfengatgh https://github.com/xiaoqingfengATGH/feeds-xiaoqingfeng.git' feeds.conf.default
+#sed -i '$a src-git xiaoqingfengatgh https://github.com/xiaoqingfengATGH/feeds-xiaoqingfeng.git' feeds.conf.default
